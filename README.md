@@ -1,1 +1,1 @@
-Image-Classification-using-DL models of difefrent styles
+Image-Classification, Segmentation, object detection, and transformation using models of difefrent styles
